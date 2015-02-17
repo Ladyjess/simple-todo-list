@@ -1,0 +1,17 @@
+.jumbotron {
+
+  background-color: pink;
+}
+.jumbotron h1 {
+  color: orange;
+}
+
+body {
+
+  background-color: lightblue;
+  
+}
+
+h1 {
+  color: white;
+}
